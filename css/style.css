@@ -2935,6 +2935,10 @@ legend {
 	margin-bottom: 14px;
 }
 @media all and (max-width: 768px) {
+	.contactInfo, .quickquote {
+		margin-top: 30px;
+	}
+
 	.blog-post-author img {
 		float: none;
 		margin-bottom: 24px;
